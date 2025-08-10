@@ -1,5 +1,5 @@
 git init
-git remote add origin https://github.com/deoaayush4/Attendance-Calculator.git
+git remote add origin https://github.com/gumnaam4/Attendance-Calculator.git
 git branch -M main
 git add .
 git commit -m "Initial commit"
